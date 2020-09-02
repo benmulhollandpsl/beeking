@@ -81,3 +81,11 @@ html {
     float: right
   }
   
+  aside {
+
+   padding: 77px;
+    /* just to show padding */
+    display: flex;
+    float: right
+
+  }

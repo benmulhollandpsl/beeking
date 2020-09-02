@@ -73,3 +73,11 @@ html {
   ul {
     float:right;
   }
+
+  article {
+    padding: 40px;
+    /* just to show padding */
+    display: flex;
+    float: right
+  }
+  

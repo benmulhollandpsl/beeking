@@ -65,6 +65,38 @@ html {
     color: black;
   }
   
+/* moved from in html  */
+  h1 {
+    color: red;
+    margin-bottom: 15px;
+    font-size: 50px;
+    background-color: yellowgreen;
+    text-shadow: 10 10 1 yellow;
+
+}
+h2 {
+    margin-bottom: 15px;
+    color: orange;
+    text-align: center;
+    /* this is me walking my way back in time through what was covered in week one */
+    }
+h3 {
+    color:yellow;
+    margin-bottom: 15px;
+    text-align: center;
+    text-shadow: 10 10 4 black;
+    }
+p {font-family:'Courier New'}
+
+img {
+      /* centering the image in the middle of its enclosing tag, auto rule on both left and right margins -browser will do the necessary to center the block elemetn   */
+    margin-left:auto;
+    margin-right: auto;
+    display: block;
+
+}
+/* end of moved from in html */
+
 
   h5 {
     float:left;

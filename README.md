@@ -11,3 +11,4 @@ This won't be deployed anylonger to heroku.
 ### future 
 I may use this repo to review and work on markup as well.
 
+using spline to create interactive bee exhibit and clickable functions.  goal is turn 'old' index into part of the 3d of the new one.

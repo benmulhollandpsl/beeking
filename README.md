@@ -14,3 +14,5 @@ Ill continue using this as a project to explore heroku deployments.
 I may use this repo to review and work on markup as well.
 
 using spline to create interactive bee exhibit and clickable functions.  goal is turn 'old' index into part of the 3d of the new one.
+
+top nav turning into interactive bee buttons and updating links on page.
